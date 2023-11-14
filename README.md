@@ -4,7 +4,7 @@
 
 
 
-Diseño Responsivo (Responsive Design): Este enfoque de diseño web implica la creación de sitios web que proporcionan una experiencia de usuario óptima en una amplia gama de dispositivos y tamaños de pantalla. En lugar de crear versiones separadas del sitio web para diferentes dispositivos, un diseño responsivo utiliza técnicas de diseño y desarrollo que permiten que el mismo sitio web se ajuste y se vea bien en dispositivos como computadoras de escritorio, tabletas y teléfonos móviles
+El diseño refleja una página web para una inmobiliaria. Incluye un encabezado con menú de navegación, información sobre la empresa y estadísticas.El pie de página refleja un enfoque profesional con un formulario de contacto bien estructurado, permitiendo a los usuarios interactuar fácilmente. También se destaca la información del desarrollador Frontend, Bruno Ivan, añadiendo un toque personal y brindando transparencia.
 
 
 
